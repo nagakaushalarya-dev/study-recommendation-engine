@@ -1,34 +1,29 @@
 # Smart Study Recommendation Engine (AI-Assisted)
 
-An open-source Python project that generates personalized study plans using structured logic and AI-inspired recommendations.
+An open-source Python project that generates personalized study plans using structured logic and basic machine learning.
 
-## Key Features
-- Difficulty-aware subject prioritization
-- Exam-goal based time allocation
-- AI-style insights for improvement
-- Modular and extensible design
-
-## How It Works
-- User inputs subjects, strength level, available hours, and exam type
-- System assigns weighted priorities
-- Study time is intelligently distributed
-- Actionable recommendations are generated
+## Features
+- Difficulty-based subject prioritization
+- Goal-aware study planning
+- Machine learning–based time prediction
+- Visual representation of study allocation
 
 ## Tech Stack
 - Python
+- Pandas
+- Scikit-learn
+- Matplotlib
 - Google Colab
 
-## Why This Project?
-This project was built to explore how structured logic and AI concepts can be applied to real-world decision-making problems like personalized learning.
+## What This Project Demonstrates
+- Structured problem-solving
+- Application of AI concepts to real problems
+- Basic ML model training and prediction
+- Iterative improvement (logic → ML → visualization)
 
 ## Future Scope
-- Machine learning-based recommendations
-- Student performance tracking
+- Larger datasets for ML training
 - Web dashboard
-- Dataset-driven optimization
+- Student progress tracking
 
 This project is open-source and open to contributions.
-
-
-## Author: KAUSHAL ARYA
-Built by a student exploring AI-assisted systems and problem-solving through hands-on experimentation.
